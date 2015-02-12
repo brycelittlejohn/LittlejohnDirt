@@ -1,0 +1,6 @@
+#ifndef BRYCEWORK_BRYCEDIRT_SAMPLE_CXX
+#define BRYCEWORK_BRYCEDIRT_SAMPLE_CXX
+
+#include "sample.h"
+
+#endif
